@@ -1,7 +1,7 @@
 {
-  "name": "zazu-template",
+  "name": "zazu-reloadconf",
   "version": "1.0.0",
-  "description": "Zazu Template for starting your own plugin.",
+  "description": "Reload Zazu configuration from zazu.",
   "main": "zazu.js",
   "scripts": {
     "lint": "eslint .",
