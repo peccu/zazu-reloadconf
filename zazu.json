@@ -7,7 +7,7 @@
       {
         "id": "reloadconf",
         "type": "Keyword",
-        "keyword": "Reload Config",
+        "keyword": "reload config",
         "title": "Reload Config",
         "subtitle": "Reload Zazu Configuration (~/.zazurc.json)",
         "icon": "fa-sync-o",
